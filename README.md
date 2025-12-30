@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently studying Cybersecurity @ University of Calabria<br>🌱 Currently learning CUDA/C an tinkering with Arduino
+🔭 Currently studying Cybersecurity @ University of Calabria<br>🌱 Currently learning CUDA/C and tinkering with Arduino
 
 
 # 💻 Tech Stack:
